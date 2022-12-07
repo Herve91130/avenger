@@ -14,9 +14,9 @@
 }
 
 .captainAmerica {
-background-color: white;
-color: blue;
-box-shadow: red;
+    background-color: white;
+    color: blue;
+    box-shadow: red 0 0 5px 0;
 }
 
 .bucky {
