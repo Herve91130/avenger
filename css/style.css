@@ -1,0 +1,63 @@
+.ironMan {
+    background-color: silver;
+    color: red;
+    box-shadow: gold;
+}
+
+.wolveryne {
+    background-color: yellow;
+    color: black;
+}
+
+.blackPanter {
+    background-color: black; 
+    color: gold;
+}
+
+.captainAmerica {
+    background-color: white;
+    color: blue;
+    box-shadow: red 0 0 5px 0;
+}
+
+.bucky {
+    background-color: silver;
+    color: black;
+}
+
+.blackWindow {
+    background-color: black;
+    color: white;
+}
+
+.hulk {
+    background-color: green;
+    color: black;
+}
+
+.warMachine {
+    background-color: gray;
+    color: darkgray;
+}
+
+.drStrange {
+    background-color: blue;
+    color: red;
+    box-shadow: gold 0 0 5px 0;
+}
+
+.spiderMan {
+    background-color: red;
+    color: blue;
+    box-shadow: gold;
+}
+
+.thor {
+    background-color: gold;
+    color: blue;
+}
+
+.hidra {
+    background-color: red;
+    color: black;
+}
