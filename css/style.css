@@ -14,11 +14,14 @@
 }
 
 .captainAmerica {
-blanc bleu rouge
+background-color: white;
+color: blue;
+box-shadow: red;
 }
 
 .bucky {
-    sylver
+    background-color: silver;
+    color: black;
 }
 
 .blackWindow {
@@ -35,4 +38,62 @@ blanc bleu rouge
 
 .drStrange {
     bleu rouge et or
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hidra {
+
 }
