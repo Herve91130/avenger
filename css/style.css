@@ -5,7 +5,8 @@
 }
 
 .wolveryne {
-    jaune et noir
+    background-color: yellow;
+    color: black;
 }
 
 .blackPanter {
@@ -25,77 +26,33 @@
 }
 
 .blackWindow {
-    black et blanc
+    background-color: black;
+    color: white;
 }
 
 .hulk {
-    vert
+    background-color: green;
+    color: black;
 }
 
-.warMachin {
-    gris et gris foncé
+.warMachine {
+    background-color: gray;
+    color: darkgray;
 }
 
 .drStrange {
-    bleu rouge et or
+    background-color: blue;
+    color: red;
+    box-shadow: gold 0 0 5px 0;
 }
 
 .spiderMan {
-    rouge bleu et or
+    background-color: red;
+    color: blue;
+    box-shadow: gold;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .hidra {
-
+    background-color: red;
+    color: black;
 }
