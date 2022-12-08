@@ -1,4 +1,3 @@
-//create new footer?
 const fetchHeader = async () => {
   try {
     const res = await fetch("./header.txt");
@@ -48,5 +47,3 @@ fetchHeader().then(getElements).then(fetchFooter);
 // OR
 fetchHeader().then(getElements);
 fetchFooter();
-
-
